@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 # Configuração da página --------------
 
@@ -14,7 +15,7 @@ st.set_page_config(
 
 # Caminhos --------------
 
-caminho_afazeres_padrao = "Tabela.xls"
+caminho_afazeres_padrao = r"H:\PythonEMatematica\Tabela.xls"
 
 # Carregar Funções --------------
 
