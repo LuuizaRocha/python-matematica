@@ -15,7 +15,7 @@ st.set_page_config(
 
 # Caminhos --------------
 
-caminho_afazeres_padrao = r"H:\PythonEMatematica\Tabela.xls"
+caminho_afazeres_padrao = "Tabela.xls"
 
 # Carregar Funções --------------
 
